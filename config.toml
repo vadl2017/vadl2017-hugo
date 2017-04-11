@@ -1,0 +1,73 @@
+baseurl = "https://vadl2017.github.io"
+languageCode = "en-us"
+title = "VADL 2017: Workshop on Visual Analytics for Deep Learning"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	author = "Deokgun Park"
+	description = "VADL Workshop for IEEE VIS 2017"
+	copyright = "Released under the MIT license"
+
+	# Repository
+	provider = ""
+	repo_url = ""
+
+	version = ""
+	logo = ""
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "teal"
+    	accent  = "red"
+
+    [params.font]
+    	text = "Noto"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	github  = ""
+	email   = "intuinno@gmail.com"
+
+
+[[menu.main]]
+	name   = "About"
+	url    = "/"
+	weight = 1
+
+[[menu.main]]
+	name   = "Call for Papers"
+	url    = "call-for-papers"
+	weight = 10
+
+[[menu.main]]
+	name   = "Schedule of Events"
+	url    = "schedule/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Organizers"
+	url    = "organizers/"
+	weight = 30
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
