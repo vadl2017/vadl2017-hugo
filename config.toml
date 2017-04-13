@@ -9,7 +9,7 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Deokgun Park"
+	author = ""
 	description = "VADL Workshop for IEEE VIS 2017"
 	copyright = "Released under the MIT license"
 
@@ -50,22 +50,26 @@ googleAnalytics = ""
 	url    = "/"
 	weight = 1
 
-[[menu.main]]
-	name   = "Call for Papers"
-	url    = "call-for-papers"
-	weight = 10
-
-[[menu.main]]
-	name   = "Schedule of Events"
-	url    = "schedule/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Organizers"
-	url    = "organizers/"
-	weight = 30
-
-
+# [[menu.main]]
+# 	name   = "Call for Papers"
+# 	url    = "call-for-papers/"
+# 	weight = 10
+# 
+# [[menu.main]]
+# 	name   = "Schedule of Events"
+# 	url    = "schedule/"
+# 	weight = 20
+# 
+# [[menu.main]]
+# 	name   = "Organizers"
+# 	url    = "organizers/"
+# 	weight = 30
+# 
+# 
+# [[menu.main]]
+# 	name   = "test"
+# 	url    = "test/"
+# 	weight = 40
 [blackfriday]
 	smartypants	= true
 	fractions = true
