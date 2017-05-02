@@ -1,18 +1,21 @@
 # vadl2017-hugo
-Source for the website
+This is a Source for the website
+
+## clone with --recursive
+git clone --recursive https://github.com/vadl2017/vadl2017-hugo
 
 ## Make your website work locally 
 ```
 hugo server -t hugo-material-docs
 ```
 
-## Updating your site
-Once you are happy with the results, Ctrl+C (kill server) and rm -rf public (don’t worry, it can always be regenerated with hugo -t <yourtheme>)
-```
-git submodule add -b master git@github.com:vadl2017/vadl2017.github.io.git public
-```
+## Edit the contents 
+You will need to update only contents/index.md
 
-Almost done: execute deploy.sh script to help you (and make it executable: chmod +x deploy.sh):
+## Updating your site
+Once you are happy with the results, Ctrl+C (kill server) 
+
+execute deploy.sh script to help you (and make it executable: chmod +x deploy.sh):
 
 ```
 #!/bin/bash
@@ -35,7 +38,7 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin master
+git push origin HEAD:master
 
 # Come Back
 cd ..
