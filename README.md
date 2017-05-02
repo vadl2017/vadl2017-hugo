@@ -2,7 +2,9 @@
 Source for the website
 
 ## Make your website work locally 
+```
 hugo server -t hugo-material-docs
+```
 
 ## Updating your site
 Once you are happy with the results, Ctrl+C (kill server) and rm -rf public (don’t worry, it can always be regenerated with hugo -t <yourtheme>)
