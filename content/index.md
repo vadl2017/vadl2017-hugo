@@ -39,7 +39,7 @@ All papers will be peer reviewed, single-blinded. We welcome many kinds of paper
 - Work that will be presented at the main conference of IEEE VIS’17
 
 Authors should clearly indicate in their abstracts the kinds of submissions, to help reviewers better understand their contributions. Submissions must be in PDF, written in English, no more than 10 pages long — shorter papers such as 2 to 4 pages are welcome — and formatted using the [IEEE "Conference Style" template](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
-The accepted papers will be posted on the workshop website and will not appear in the IEEE VIS’17 proceedings.
+The accepted papers will be posted on the workshop website and will be included in the IEEE VIS’17 electronic proceedings USB stick.
 For accepted papers, at least one author must attend the workshop to present the work.
 
 ## Important Dates
