@@ -5,7 +5,7 @@ type: index
 weight: 0
 ---
 
-## Topics and Scopes
+## Call for Papers
 
 Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance.
 
