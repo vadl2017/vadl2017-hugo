@@ -5,13 +5,15 @@ type: index
 weight: 0
 ---
 
-Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance. 
-
-The primary goal of the workshop is to bridge the gap by bringing together researchers from both machine learning and visual analytics fields, which allows us to push the boundary of deep learning. The workshop should provide an opportunity to discuss and explore ways to harmonize the power of automated techniques and exploratory nature of interactive visualization. We believe that hosting one of the workshops in this series at IEEE VIS will foster a more multi-disciplinary community of researchers to address the topics outlined below.
-
 ## Topics and Scopes
 
-The technical scope of this workshop includes any kinds of fundamental techniques and visual analytic systems that can help stakeholders understand the inner workings of deep learning models and interact with them in user’s own manner. In detail, topics of interest include but are not limited to:
+Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance.
+
+VADL, the workshop on visual analytics for deep learning, is a half-day workshop held in conjunction with [IEEE VIS 2017 Conference](http://ieeevis.org/) in Phoenix, AZ. The primary goal of the workshop is to bridge the gap by bringing together researchers from both machine learning and visual analytics fields, which allows us to push the boundary of deep learning. The workshop should provide an opportunity to discuss and explore ways to harmonize the power of automated techniques and exploratory nature of interactive visualization. 
+
+## Topics of Interest
+
+In this call, we look for papers related to visual analytics for deep learning. Topics of interest include, but are not limited to: 
 
 - User-adaptive approaches to deep neural networks
 - Coupling of deep learning-based systems with interactive visualization
@@ -24,26 +26,31 @@ The technical scope of this workshop includes any kinds of fundamental technique
 - Domain-specific applications of visual analysis of deep neural networks (e.g. retail, healthcare, government, etc.)
 - Studies and evaluation of deep learning visualization techniques, systems, metrics, and benchmarks
 
-We invite various kinds of papers such as (but not limited to): 
+## Submission Information
+
+All papers will be peer reviewed, single-blinded. We welcome many kinds of papers, including (but not limited to):
 
 - Novel research papers
 - Demo papers
 - Work-in-progress papers
 - Visionary papers (white papers)
 - Position papers 
+- Relevant work that has been previously published
+- Work that will be presented at the main conference of IEEE VIS’17
+
+Authors should clearly indicate in their abstracts the kinds of submissions, to help reviewers better understand their contributions. Submissions must be in PDF, written in English, no more than 10 pages long — shorter papers such as 2 to 4 pages are welcome — and formatted using the [IEEE "Conference Style" template](http://junctionpublishing.org/vgtc/Tasks/camera.html). 
+The accepted papers will be posted on the workshop website and will not appear in the IEEE VIS’17 proceedings.
+For accepted papers, at least one author must attend the workshop to present the work.
 
 ## Important Dates
 
-- Submission: **July 14, 2017**
+- Submission: **July 21, 2017**
 - Author notification: August 4, 2017
-- Camera-ready: August 25, 2015
-- Workshop date: TBD
-
-## Author Instruction 
-
+- Camera-ready: August 18, 2015
+- Workshop date: October 1 or 2
 
 ## Schedule of Events
-
+The tentative schedule is as follows: 
 - 09:00-09:10 Opening remark
 - 09:10-09:35 Invited talk 1
 - 09:35-10:00 Invited talk 2
