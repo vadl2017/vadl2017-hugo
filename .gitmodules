@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/vadl2017/vadl2017.github.io.git
+	branch = master
