@@ -8,7 +8,7 @@ weight: 0
 ## Call for Papers
 
 
-Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance.
+Recently, deep neural networks have been achieving breakthroughs in various major artificial intelligence tasks such as machine translation, image understanding, speech recognition, and so on. In these tasks, deep neural networks reached the level of an accuracy comparable to or even better than humans’ performance. However, understanding the deep neural networks is challenging due to their large network size and many parameters. 
 
 VADL, the workshop on visual analytics for deep learning, is a half-day workshop held in conjunction with [IEEE VIS 2017 Conference](http://ieeevis.org/) in Phoenix, AZ. The primary goal of the workshop is to bridge the gap by bringing together researchers from both machine learning and visual analytics fields, which allows us to push the boundary of deep learning. The workshop should provide an opportunity to discuss and explore ways to harmonize the power of automated techniques and exploratory nature of interactive visualization. 
 
