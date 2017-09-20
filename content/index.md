@@ -54,17 +54,16 @@ For accepted papers, at least one author must attend the workshop to present the
 - 2:00pm-2:10pm Welcome remarks
 - 2:10pm-2:40pm Opening Keynote by Shixia Liu
 - 2:40pm-3:40pm Paper Session I 
-  * RNNbow: Visualizing the Learning Process in Recurrent Neural Networks by Dylan Cashman, Genevieve Patterson, Abigail Mosca, and Remco Chang  
-  * CNNComparator: Comparative Analytics of Convolutional Neural Networks by Haipeng Zeng, Hammad Haleem, Xavier Plantaz, Nan Cao, and  Huamin Qu
-  * Plug-and-Play Interactive Deep Network Visualization by Gjorgji Strezoski, and Marcel Worring
-  * Visualization for Classification in Deep Neural Networks by Junghoon Chae, Sang Gao, Arvind Ramanthan, Chad Steed, and Georgia Tourassi
+  * 2:40pm-2:55pm [RNNbow: Visualizing the Learning Process in Recurrent Neural Networks](paper/vadl_0107-paper.pdf) by Dylan Cashman, Genevieve Patterson, Abigail Mosca, and Remco Chang  
+  * 2:55pm-3:10pm [CNNComparator: Comparative Analytics of Convolutional Neural Networks](paper/vadl_0108-paper.pdf) by Haipeng Zeng, Hammad Haleem, Xavier Plantaz, Nan Cao, and  Huamin Qu
+  * 3:10pm-3:20pm [Plug-and-Play Interactive Deep Network Visualization](paper/vadl_0100-paper.pdf) by Gjorgji Strezoski, and Marcel Worring
+  * 3:20pm-3:30pm [Visualization for Classification in Deep Neural Networks](paper/vadl_0101-paper.pdf) by Junghoon Chae, Sang Gao, Arvind Ramanthan, Chad Steed, and Georgia Tourassi
 - 3:40pm-4:10pm Coffee Break
 - 4:10pm-4:45pm Paper Session II
-  * Exploring Perceptual Hierarchies of City Neighborhoods: Visual Analytics of Deep Neural Networks on Geospatially-embedded Image Datasets by Lezhi Li, James Tompkin, Hanspeter Pfister, and Panagiotis Michalatos
-  * Designing a Visual Analytics System for Industry-Scale Deep Neural Network Models by Minsuk Kahng, Pierre Andrews, Aditya Kalro, and Duen Horng Chau
-  * Visualizing Temporal Patterns in Representation Data by Jiangen He and Chaomei Chen
-- 4:45pm-5:15pm Small Group discussion
-- 5:15pm-5:45pm Presenting group findings 
+  * 4:10pm-4:25pm [Hierarchical Visual Feature Analysis for City Street View Datasets](paper/vadl_0106-paper.pdf) by Lezhi Li, James Tompkin, Hanspeter Pfister, and Panagiotis Michalatos
+  * 4:25pm-4:35pm [Designing a Visual Analytics System for Industry-Scale Deep Neural Network Models](paper/vadl_0110-paper.pdf) by Minsuk Kahng, Pierre Andrews, Aditya Kalro, and Duen Horng Chau
+  * 4:35pm-4:45pm [Visualizing Temporal Patterns in Representation Data](paper/vadl_0112-paper.pdf) by Jiangen He and Chaomei Chen
+- 4:45pm-5:45pm Panel discussion
 - 5:45pm-5:55pm Closing Remarks
 
 ## Organizers
