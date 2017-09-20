@@ -44,25 +44,28 @@ For accepted papers, at least one author must attend the workshop to present the
 
 ## Important Dates
 
-- Submission: **July 31, 2017 (Extended)**
+- Submission: **July 31, 2017 (Extende)**
 - Author notification: August 15, 2017
 - Camera-ready: August 25, 2015
 - Workshop date: October 1 or 2
 
 ## Schedule of Events
 
-The tentative schedule is as follows: 
-
-- 09:00-09:10 Opening remark
-- 09:10-09:35 Invited talk 1
-- 09:35-10:00 Invited talk 2
-- 10:00-10:25 Invited talk 3
-- 10:25-10:50 Break (30 mins)
-- 10:50-11:10 Paper presentation 1
-- 11:10-11:30 Paper presentation 2
-- 11:30-11:50 Paper presentation 3
-- 11:50-12:10 Paper presentation 4
-- 12:10-14:00 Poster Session
+- 2:00pm-2:10pm Welcome remarks
+- 2:10pm-2:40pm Opening Keynote by Shixia Liu
+- 2:40pm-3:40pm Paper Session I 
+  * RNNbow: Visualizing the Learning Process in Recurrent Neural Networks by Dylan Cashman, Genevieve Patterson, Abigail Mosca, and Remco Chang  
+  * CNNComparator: Comparative Analytics of Convolutional Neural Networks by Haipeng Zeng, Hammad Haleem, Xavier Plantaz, Nan Cao, and  Huamin Qu
+  * Plug-and-Play Interactive Deep Network Visualization by Gjorgji Strezoski, and Marcel Worring
+  * Visualization for Classification in Deep Neural Networks by Junghoon Chae, Sang Gao, Arvind Ramanthan, Chad Steed, and Georgia Tourassi
+- 3:40pm-4:10pm Coffee Break
+- 4:10pm-4:45pm Paper Session II
+  * Exploring Perceptual Hierarchies of City Neighborhoods: Visual Analytics of Deep Neural Networks on Geospatially-embedded Image Datasets by Lezhi Li, James Tompkin, Hanspeter Pfister, and Panagiotis Michalatos
+  * Designing a Visual Analytics System for Industry-Scale Deep Neural Network Models by Minsuk Kahng, Pierre Andrews, Aditya Kalro, and Duen Horng Chau
+  * Visualizing Temporal Patterns in Representation Data by Jiangen He and Chaomei Chen
+- 4:45pm-5:15pm Small Group discussion
+- 5:15pm-5:45pm Presenting group findings 
+- 5:45pm-5:55pm Closing Remarks
 
 ## Organizers
 
